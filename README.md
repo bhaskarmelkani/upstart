@@ -3,7 +3,8 @@ Upstart Scripts
 
 # Do
 >Place the file in /etc/init.
-cp forever.conf /etc/init
+
+`cp forever.conf /etc/init`
 
 
 Starting and stopping any upstart service.
